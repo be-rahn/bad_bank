@@ -18,10 +18,10 @@ function App() {
             user: null,
             users: [
               {
-                name: "Dylan",
-                email: "dylanvernon22@gmail.com",
+                name: "Brooke",
+                email: "brooke.rahn@gmail.com",
                 password: "secret",
-                balance: 100,
+                balance: 1000,
               },
             ],
           }}
